@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿Adapter Design Pattern :
 
-namespace AdapterDesignPattern
-{
-    class README
-    {
-    }
-}
+In Adapter Design pattern 
+
